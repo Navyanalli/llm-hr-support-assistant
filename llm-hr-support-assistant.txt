@@ -1,0 +1,14 @@
+llm-hr-support-assistant/
+│── README.md
+│── requirements.txt
+│── app/
+│     ├── semantic_search.py
+│     ├── llm_engine.py
+│     ├── guardrails.py
+│     ├── main.py
+│── data/
+│     ├── hr_policies.csv
+│── notebooks/
+│     ├── evaluation.ipynb
+│── results/
+│     ├── evaluation_report.md
